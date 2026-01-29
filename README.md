@@ -2,7 +2,7 @@
 
 ### Senior Full Stack Engineer | Team Leader | Web & Mobile Developer
 
-[![Email](https://img.shields.io/badge?style=flat-square&logo=gmail&logoColor=white)](mailto:mju34170@gmail.com)
+[![Email](https://img.shields.io/badge/mju34170@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mju34170@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14533487/web-sudo)
 
 ---
