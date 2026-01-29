@@ -106,7 +106,7 @@ const me = {
 ## 💼 Professional Experience
 
 ### 🏢 Business Brokerage Services, LLC
-**Full Stack Engineer Team Leader** | Mar 2022 - Dec 2025
+**Full Stack Engineer Team Leader** | Mar 2022 - Sep 2025
 - Led a team of 5 developers with sprint planning & stakeholder communication
 - Built internal business listing portal reducing load time from **5s → under 1s**
 - Integrated secure payment & DocuSign APIs
